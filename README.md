@@ -8,7 +8,7 @@
 This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. The app allows you to manage your contacts and provides COVID-19 data visualization in the form of charts and maps for different countries.
 
 ## Deployed Link
-You can access the app live at [Contact Management App](https://contact-management-application-ritabrata.vercel.app/).
+You can access the app live at [Contact Management App](https://663b7167efdc3014bbaa9ffb--friendly-kataifi-0aebdd.netlify.app/).
 
 ## Pages and Functionality
 
